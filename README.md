@@ -9,4 +9,8 @@ Simple alpine based image with php-fpm-5.6 inside and default fpm params which l
 - php5-mysql 
 - php5-mysqli 
 - php5-mcrypt 
-- php5-gd 
+- php5-gd
+
+# Installation:
+
+docker pull cobravsninja/php-fpm-5.6
